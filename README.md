@@ -4,8 +4,11 @@
    The purpose of the project for Cloudburst Prediction with CNN and Gramian Angular Field (GAF) lies in addressing the critical need for accurate and timely prediction of cloudburst events, which pose significant risks to lives, infrastructure, and the environment.The project aims to provide stakeholders with a more accurate and reliable tool for mitigating the impacts of cloudburst events and enhancing disaster preparedness efforts. 
 ### Features
    Creating new method merging CNNs and GAF for cloudburst prediction.
+   
    Optimizing CNN architecture for precise cloudburst pattern capture.
+   
    Ensuring model's robustness and generalization across regions and climates.
+   
    Comparing new method to existing ones using accuracy metrics effectively.
 
 
