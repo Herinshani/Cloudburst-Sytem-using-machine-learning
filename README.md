@@ -31,7 +31,7 @@ This integration marks a significant step forward in cloudburst forecasting, off
 ###### Articles published / References
 Vikram Sreekanti, Chenggang Wu, Xiayue Charles Lin, Johann Schleier-Smith, Jose M. Faleiro, Joseph E. Gonzalez, Joseph M. Hellerstein, Alexey Tumanov “Cloudburst: Stateful Functions-as-a-Service” Cornell University 2020. 
 Albin Sebastian; Jachin Bency Thomas; Rinu Mathew; Riya Jose; Anto Manuel “SkySentinel: Harnessing AI for Cloudburst Forecasting and Warning”, International Conference on Circuit Power and Computing Technologies (ICCPCT), August/2023. 
-![image](https://github.com/Herinshani/Cloudburst-Sytem-using-machine-learning/assets/123535397/74d31b58-b300-4a86-b794-c16f00df018f)
+
 
 
 
