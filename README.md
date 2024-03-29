@@ -23,7 +23,9 @@
 ![Screenshot 2023-11-30 202249](https://github.com/Herinshani/Cloudburst-Sytem-using-machine-learning/assets/123535397/adf13f84-b475-487d-b986-e48f0e2ea873)
 
 ###### Output
-![Screenshot 2024-03-20 193325](https://github.com/Herinshani/Cloudburst-Sytem-using-machine-learning/assets/123535397/8958d495-fd15-425f-a4b4-05035a2d9106)
+![image](https://github.com/Herinshani/Cloudburst-Sytem-using-machine-learning/assets/123535397/92875e0d-ccc3-4ad3-b0d9-06dd5810811c)
+![image](https://github.com/Herinshani/Cloudburst-Sytem-using-machine-learning/assets/123535397/514f825d-6127-4a04-9ce9-06199013321f)
+
  Accuracy of the cloudburst is 86%
  ###### Results and Impact
  The integration of Convolutional Neural Networks (CNNs) for cloudburst prediction has yielded a commendable 84% accuracy, showcasing their potential for delivering precise and spatially nuanced forecasts. 
